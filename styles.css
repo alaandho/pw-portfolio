@@ -1,0 +1,48 @@
+
+body {
+    margin: 25;
+    font-family: Helvetica, sans-serif;
+    padding: 50px 0;
+}
+h1, h2 {
+    font-family: Helvetica, sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+p {
+    font-family: Helvetica, sans-serif;
+}
+.header {
+    background-color:antiquewhite;
+    height: 100px;
+    text-align: center;
+    padding: 1px;
+}
+.container div {
+    padding: 1%;
+    box-sizing: border-box;
+    min-height: 500px;
+}
+.left-col, .right-col {
+    width: 25%;
+    float:left;
+    padding: 100px;
+
+}
+.center-col {
+    width: 25%;
+    float: left;
+    padding: 100px;
+}
+ul {
+    font-family: Helvetica, sans-serif;
+}
+.footer {
+    clear: both;
+    font-family: Helvetica, sans-serif;
+    background-color: antiquewhite;
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
